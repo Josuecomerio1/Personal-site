@@ -1,0 +1,78 @@
+ body {
+   background: url(images/header.image4.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+  header {
+    color: white;
+    text-align: right;
+  }
+
+
+
+
+
+  div {
+   background: url(images/header.image4.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+   body h1{
+     display:inline-block;
+     padding: 0.5em 0.5em;
+     border: black solid 10px;
+     text-align: center;
+     background-color: violet;
+     text-transform: full-width;
+   }
+
+ body h4 {
+   color: rgb(0, 0, 0);
+   text-decoration: underline solid black;
+
+ }
+ nav a{
+   color: black;
+   padding-top: 5px;
+   padding-left: 5px;
+   padding-bottom: 5px;
+   text-decoration-line: underline;
+   background-color: grey;
+   font-size: 17px;
+   text-decoration-style: wavy;
+
+}
+
+ body ul {
+   text-align: justify;
+   text-decoration-line: underline;
+
+ }
+
+   section h2 {
+     text-align: center;
+     text-decoration: underline;
+   }
+
+   section p {
+     color: rgb(0, 0, 0);
+     text-align: center;
+     text-transform: uppercase;
+     background-color: grey;
+     padding-top: 5px;
+     padding-bottom: 5px;
+   }
+
+    button {
+      color: violet;
+      background-color: black;
+      border-color: black;
+      border-radius: 20px;
+   }

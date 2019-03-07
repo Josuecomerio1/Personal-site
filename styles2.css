@@ -1,0 +1,10 @@
+   body input {
+     background-color: Black;
+     color: White;
+   }
+
+   body div{
+     color: Black;
+     text: strong;
+     text-transform: capitalize;
+   }
